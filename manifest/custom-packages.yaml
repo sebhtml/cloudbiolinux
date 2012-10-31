@@ -191,6 +191,11 @@ pydoop:
   homepage_uri: http://pydoop.sourceforge.net/docs/
   name: pydoop
   version: ''
+ray: 
+  description: Ray -- Parallel genome assemblies for parallel DNA sequencing 
+  homepage_uri: http://denovoassembler.sourceforge.net/
+  name: ray
+  version: 2.1.0
 rpy:
   description: RPy is a very simple, yet robust, Python interface to the R Programming
     Language.
